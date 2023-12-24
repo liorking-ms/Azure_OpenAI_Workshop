@@ -23,5 +23,5 @@ unstructured
 requests
 python-dotenv
 pillow
-#pymssql
-#azure-ai-vision
+pymssql
+azure-ai-vision
