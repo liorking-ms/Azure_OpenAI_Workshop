@@ -19,7 +19,7 @@ This agenda covers a range of topics, from the basics of LLMs and GPT to more ad
 * Lab #5 - Retrieval Augmented Generation in Azure
 * Lab #6 - Speech recognition+ OpenAI
 * Lab #7 - Computer vision + OpenAI
-
+* Lab #8 - Image generation
 
 ## Requirements
 * In order to participate in the workshop you must follow the instructions in the ["0- Requirements folder"](./0-%20Requirements/README.md)
